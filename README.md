@@ -1,6 +1,13 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Fatima+J.+Bakari;Data+Scientist;IoT+Specialist;QA+Engineer;AI%2FML+Enthusiast" alt="Typing Animation" />
-</div>
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/dahlia/dahlia"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/dahlia/dahlia/graphs/contributors"><img src="https://img.shields.io/github/contributors/dahlia/dahlia?color=blue"></a>
+    <a href="https://github.com/dahlia/dahlia/stargazers"><img src="https://img.shields.io/github/stars/dahlia/dahlia.svg?logo=github"></a>
+    <a href="https://github.com/dahlia/dahlia/network/members"><img src="https://img.shields.io/github/forks/dahlia/dahlia.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=dahlia.dahlia" alt="visitors"/>   
+</p>
 
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20Fatima1510&textBg=false&desc=(she/her)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
 <p align="center">I'm a Data Scientist and AI/ML enthusiast from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>. Passionate about turning data into insights, ensuring quality, and exploring machine learning!</p>
@@ -55,7 +62,7 @@
 <div align="center">
 <blockquote>
 <p><em>"Code. Eat. Music. Repeat."</em></p>
-<p><strong>— Fatima J. Bakari</strong></p>
+<p><strong> Fatima J. Bakari</strong></p>
 </blockquote>
 </div>
 
