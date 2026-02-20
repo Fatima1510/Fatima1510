@@ -43,7 +43,6 @@
 
 <ul>
     <li>🔭 Currently exploring <a href="https://www.tensorflow.org/">TensorFlow</a> for ML projects.</li>
-    <li>👨‍💻 Most projects focus on data science and AI.</li>
 </ul>
 
 <h2 id=lang>Skills</h2>
